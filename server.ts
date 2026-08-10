@@ -947,7 +947,7 @@ Your Cart State Right Now:
 });
 
 // Fallback Virtual Waiter Agent for seamless service when Gemini API is rate-limited or unavailable
-// ═══════════════════════════════════════════════════════════════════════════════════════
+// // ═══════════════════════════════════════════════════════════════════════════════════════
 // COMPLETE AI WAITER SYSTEM - PRODUCTION READY
 // ═══════════════════════════════════════════════════════════════════════════════════════
 // 
